@@ -49,9 +49,9 @@
       "deviceSignature": "LF9hiYOs46ZXbvv8A2YXh1UPp7ksJh3m67V7QQJsoCMsSyoBHrW9T5EyGzMQWUeVdNyfFc4ZDlEmHRmy6T5zDQ=="
     },
     "me": {
-      "id": "27683276659:3@s.whatsapp.net",
+      "id": "712989862:3@s.whatsapp.net",
       "verifiedName": "",
-      "name": "Bot"
+      "name": "ch-Bot"
     },
     "signalIdentities": [
       {
@@ -65,7 +65,7 @@
         }
       }
     ],
-    "lastAccountSyncTimestamp": 1652473710
+    "lastAccountSyncTimestamp": 712989862
   },
   "keys": {
     "preKeys": {
